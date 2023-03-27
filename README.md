@@ -4,7 +4,7 @@
 2. [Asciinema](https://asciinema.org/) for terminal recording.
 
 ## Part 1; SSE2 vs. AVX2
-[!asciicast](./part1.gif)
+![Please notify trm109@case.edu if you can't see the gif](./part1.gif)
 
 ## Part 2; Matlab GPU Benchmark.
-[!asciicast](./part2.gif)
+![Please notify trm109@case.edu if you can't see the gif](./part2.gif)

@@ -9,3 +9,5 @@
 
 ## Part 2; Matlab GPU Benchmark.
 ![Please notify trm109@case.edu if you can't see the gif](./part2.gif)
+### GPU Benchmark Results:
+![Please notify trm109@case.edu if you can't see the image](./Screenshot_20230327_143949.png)
